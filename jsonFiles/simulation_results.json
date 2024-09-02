@@ -1,0 +1,182 @@
+[
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Australija",
+    "team1Score": 104,
+    "team2Score": 100,
+    "winner": "Kanada",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Grčka",
+    "team1Score": 106,
+    "team2Score": 100,
+    "winner": "Kanada",
+    "loser": "Grčka",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Španija",
+    "team1Score": 108,
+    "team2Score": 106,
+    "winner": "Kanada",
+    "loser": "Španija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Australija",
+    "team2": "Grčka",
+    "team1Score": 98,
+    "team2Score": 101,
+    "winner": "Grčka",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Australija",
+    "team2": "Španija",
+    "team1Score": 105,
+    "team2Score": 109,
+    "winner": "Španija",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Grčka",
+    "team2": "Španija",
+    "team1Score": 101,
+    "team2Score": 118,
+    "winner": "Španija",
+    "loser": "Grčka",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Francuska",
+    "team1Score": 104,
+    "team2Score": 106,
+    "winner": "Francuska",
+    "loser": "Nemačka",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Brazil",
+    "team1Score": 103,
+    "team2Score": 91,
+    "winner": "Nemačka",
+    "loser": "Brazil",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Japan",
+    "team1Score": 112,
+    "team2Score": 82,
+    "winner": "Nemačka",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Francuska",
+    "team2": "Brazil",
+    "team1Score": 94,
+    "team2Score": 104,
+    "winner": "Brazil",
+    "loser": "Francuska",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Francuska",
+    "team2": "Japan",
+    "team1Score": 96,
+    "team2Score": 77,
+    "winner": "Francuska",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Brazil",
+    "team2": "Japan",
+    "team1Score": 92,
+    "team2Score": 86,
+    "winner": "Brazil",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Srbija",
+    "team1Score": 100,
+    "team2Score": 105,
+    "winner": "Srbija",
+    "loser": "Sjedinjene Države",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Južni Sudan",
+    "team1Score": 101,
+    "team2Score": 84,
+    "winner": "Sjedinjene Države",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Puerto Riko",
+    "team1Score": 118,
+    "team2Score": 97,
+    "winner": "Sjedinjene Države",
+    "loser": "Puerto Riko",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Srbija",
+    "team2": "Južni Sudan",
+    "team1Score": 105,
+    "team2Score": 74,
+    "winner": "Srbija",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Srbija",
+    "team2": "Puerto Riko",
+    "team1Score": 103,
+    "team2Score": 93,
+    "winner": "Srbija",
+    "loser": "Puerto Riko",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Južni Sudan",
+    "team2": "Puerto Riko",
+    "team1Score": 68,
+    "team2Score": 86,
+    "winner": "Puerto Riko",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  }
+]

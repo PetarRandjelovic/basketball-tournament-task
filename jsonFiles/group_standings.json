@@ -1,0 +1,149 @@
+[
+  {
+    "group": "A",
+    "teams": [
+      {
+        "rank": 1,
+        "team": "Kanada",
+        "isoCode": "CAN",
+        "victories": 3,
+        "defeats": 0,
+        "points": 6,
+        "scored": 318,
+        "conceded": 306,
+        "difference": 12
+      },
+      {
+        "rank": 2,
+        "team": "Španija",
+        "isoCode": "ESP",
+        "victories": 2,
+        "defeats": 1,
+        "points": 5,
+        "scored": 333,
+        "conceded": 314,
+        "difference": 19
+      },
+      {
+        "rank": 3,
+        "team": "Grčka",
+        "isoCode": "GRE",
+        "victories": 1,
+        "defeats": 2,
+        "points": 4,
+        "scored": 302,
+        "conceded": 322,
+        "difference": -20
+      },
+      {
+        "rank": 4,
+        "team": "Australija",
+        "isoCode": "AUS",
+        "victories": 0,
+        "defeats": 3,
+        "points": 3,
+        "scored": 303,
+        "conceded": 314,
+        "difference": -11
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "teams": [
+      {
+        "rank": 1,
+        "team": "Nemačka",
+        "isoCode": "GER",
+        "victories": 2,
+        "defeats": 1,
+        "points": 5,
+        "scored": 319,
+        "conceded": 279,
+        "difference": 40
+      },
+      {
+        "rank": 2,
+        "team": "Brazil",
+        "isoCode": "BRA",
+        "victories": 2,
+        "defeats": 1,
+        "points": 5,
+        "scored": 287,
+        "conceded": 283,
+        "difference": 4
+      },
+      {
+        "rank": 3,
+        "team": "Francuska",
+        "isoCode": "FRA",
+        "victories": 2,
+        "defeats": 1,
+        "points": 5,
+        "scored": 296,
+        "conceded": 285,
+        "difference": 11
+      },
+      {
+        "rank": 4,
+        "team": "Japan",
+        "isoCode": "JPN",
+        "victories": 0,
+        "defeats": 3,
+        "points": 3,
+        "scored": 245,
+        "conceded": 300,
+        "difference": -55
+      }
+    ]
+  },
+  {
+    "group": "C",
+    "teams": [
+      {
+        "rank": 1,
+        "team": "Srbija",
+        "isoCode": "SRB",
+        "victories": 3,
+        "defeats": 0,
+        "points": 6,
+        "scored": 313,
+        "conceded": 267,
+        "difference": 46
+      },
+      {
+        "rank": 2,
+        "team": "Sjedinjene Države",
+        "isoCode": "USA",
+        "victories": 2,
+        "defeats": 1,
+        "points": 5,
+        "scored": 319,
+        "conceded": 286,
+        "difference": 33
+      },
+      {
+        "rank": 3,
+        "team": "Puerto Riko",
+        "isoCode": "PRI",
+        "victories": 1,
+        "defeats": 2,
+        "points": 4,
+        "scored": 276,
+        "conceded": 289,
+        "difference": -13
+      },
+      {
+        "rank": 4,
+        "team": "Južni Sudan",
+        "isoCode": "SSD",
+        "victories": 0,
+        "defeats": 3,
+        "points": 3,
+        "scored": 226,
+        "conceded": 292,
+        "difference": -66
+      }
+    ]
+  }
+]

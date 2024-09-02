@@ -1,0 +1,398 @@
+[
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Australija",
+    "team1Score": 104,
+    "team2Score": 100,
+    "winner": "Kanada",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Grčka",
+    "team1Score": 106,
+    "team2Score": 100,
+    "winner": "Kanada",
+    "loser": "Grčka",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Kanada",
+    "team2": "Španija",
+    "team1Score": 108,
+    "team2Score": 106,
+    "winner": "Kanada",
+    "loser": "Španija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Australija",
+    "team2": "Grčka",
+    "team1Score": 98,
+    "team2Score": 101,
+    "winner": "Grčka",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Australija",
+    "team2": "Španija",
+    "team1Score": 105,
+    "team2Score": 109,
+    "winner": "Španija",
+    "loser": "Australija",
+    "playedInGroup": true
+  },
+  {
+    "group": "A",
+    "team1": "Grčka",
+    "team2": "Španija",
+    "team1Score": 101,
+    "team2Score": 118,
+    "winner": "Španija",
+    "loser": "Grčka",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Francuska",
+    "team1Score": 104,
+    "team2Score": 106,
+    "winner": "Francuska",
+    "loser": "Nemačka",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Brazil",
+    "team1Score": 103,
+    "team2Score": 91,
+    "winner": "Nemačka",
+    "loser": "Brazil",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Nemačka",
+    "team2": "Japan",
+    "team1Score": 112,
+    "team2Score": 82,
+    "winner": "Nemačka",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Francuska",
+    "team2": "Brazil",
+    "team1Score": 94,
+    "team2Score": 104,
+    "winner": "Brazil",
+    "loser": "Francuska",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Francuska",
+    "team2": "Japan",
+    "team1Score": 96,
+    "team2Score": 77,
+    "winner": "Francuska",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "B",
+    "team1": "Brazil",
+    "team2": "Japan",
+    "team1Score": 92,
+    "team2Score": 86,
+    "winner": "Brazil",
+    "loser": "Japan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Srbija",
+    "team1Score": 100,
+    "team2Score": 105,
+    "winner": "Srbija",
+    "loser": "Sjedinjene Države",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Južni Sudan",
+    "team1Score": 101,
+    "team2Score": 84,
+    "winner": "Sjedinjene Države",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Sjedinjene Države",
+    "team2": "Puerto Riko",
+    "team1Score": 118,
+    "team2Score": 97,
+    "winner": "Sjedinjene Države",
+    "loser": "Puerto Riko",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Srbija",
+    "team2": "Južni Sudan",
+    "team1Score": 105,
+    "team2Score": 74,
+    "winner": "Srbija",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Srbija",
+    "team2": "Puerto Riko",
+    "team1Score": 103,
+    "team2Score": 93,
+    "winner": "Srbija",
+    "loser": "Puerto Riko",
+    "playedInGroup": true
+  },
+  {
+    "group": "C",
+    "team1": "Južni Sudan",
+    "team2": "Puerto Riko",
+    "team1Score": 68,
+    "team2Score": 86,
+    "winner": "Puerto Riko",
+    "loser": "Južni Sudan",
+    "playedInGroup": true
+  },
+  {
+    "team1": "GER",
+    "team2": "FRA",
+    "team1Score": 66,
+    "team2Score": 90,
+    "winner": "FRA",
+    "loser": "GER",
+    "playedInGroup": false
+  },
+  {
+    "team1": "GER",
+    "team2": "JPN",
+    "team1Score": 104,
+    "team2Score": 83,
+    "winner": "GER",
+    "loser": "JPN",
+    "playedInGroup": false
+  },
+  {
+    "team1": "FRA",
+    "team2": "SRB",
+    "team1Score": 67,
+    "team2Score": 79,
+    "winner": "SRB",
+    "loser": "FRA",
+    "playedInGroup": false
+  },
+  {
+    "team1": "FRA",
+    "team2": "CAN",
+    "team1Score": 73,
+    "team2Score": 85,
+    "winner": "CAN",
+    "loser": "FRA",
+    "playedInGroup": false
+  },
+  {
+    "team1": "JPN",
+    "team2": "GER",
+    "team1Score": 83,
+    "team2Score": 104,
+    "winner": "GER",
+    "loser": "JPN",
+    "playedInGroup": false
+  },
+  {
+    "team1": "JPN",
+    "team2": "SRB",
+    "team1Score": 100,
+    "team2Score": 119,
+    "winner": "SRB",
+    "loser": "JPN",
+    "playedInGroup": false
+  },
+  {
+    "team1": "USA",
+    "team2": "SSD",
+    "team1Score": 101,
+    "team2Score": 100,
+    "winner": "USA",
+    "loser": "SSD",
+    "playedInGroup": false
+  },
+  {
+    "team1": "USA",
+    "team2": "GER",
+    "team1Score": 92,
+    "team2Score": 88,
+    "winner": "USA",
+    "loser": "GER",
+    "playedInGroup": false
+  },
+  {
+    "team1": "CAN",
+    "team2": "USA",
+    "team1Score": 72,
+    "team2Score": 86,
+    "winner": "USA",
+    "loser": "CAN",
+    "playedInGroup": false
+  },
+  {
+    "team1": "CAN",
+    "team2": "PRI",
+    "team1Score": 103,
+    "team2Score": 93,
+    "winner": "CAN",
+    "loser": "PRI",
+    "playedInGroup": false
+  },
+  {
+    "team1": "AUS",
+    "team2": "USA",
+    "team1Score": 92,
+    "team2Score": 98,
+    "winner": "USA",
+    "loser": "AUS",
+    "playedInGroup": false
+  },
+  {
+    "team1": "AUS",
+    "team2": "PRI",
+    "team1Score": 90,
+    "team2Score": 75,
+    "winner": "AUS",
+    "loser": "PRI",
+    "playedInGroup": false
+  },
+  {
+    "team1": "SRB",
+    "team2": "JPN",
+    "team1Score": 119,
+    "team2Score": 100,
+    "winner": "SRB",
+    "loser": "JPN",
+    "playedInGroup": false
+  },
+  {
+    "team1": "SRB",
+    "team2": "GRE",
+    "team1Score": 94,
+    "team2Score": 72,
+    "winner": "SRB",
+    "loser": "GRE",
+    "playedInGroup": false
+  },
+  {
+    "team1": "PRI",
+    "team2": "GRE",
+    "team1Score": 65,
+    "team2Score": 67,
+    "winner": "GRE",
+    "loser": "PRI",
+    "playedInGroup": false
+  },
+  {
+    "team1": "PRI",
+    "team2": "AUS",
+    "team1Score": 75,
+    "team2Score": 90,
+    "winner": "AUS",
+    "loser": "PRI",
+    "playedInGroup": false
+  },
+  {
+    "team1": "GRE",
+    "team2": "PRI",
+    "team1Score": 67,
+    "team2Score": 65,
+    "winner": "GRE",
+    "loser": "PRI",
+    "playedInGroup": false
+  },
+  {
+    "team1": "GRE",
+    "team2": "SRB",
+    "team1Score": 72,
+    "team2Score": 94,
+    "winner": "SRB",
+    "loser": "GRE",
+    "playedInGroup": false
+  },
+  {
+    "team1": "BRA",
+    "team2": "POR",
+    "team1Score": 63,
+    "team2Score": 73,
+    "winner": "POR",
+    "loser": "BRA",
+    "playedInGroup": false
+  },
+  {
+    "team1": "BRA",
+    "team2": "ESP",
+    "team1Score": 72,
+    "team2Score": 76,
+    "winner": "ESP",
+    "loser": "BRA",
+    "playedInGroup": false
+  },
+  {
+    "team1": "SSD",
+    "team2": "BRA",
+    "team1Score": 72,
+    "team2Score": 81,
+    "winner": "BRA",
+    "loser": "SSD",
+    "playedInGroup": false
+  },
+  {
+    "team1": "SSD",
+    "team2": "USA",
+    "team1Score": 100,
+    "team2Score": 101,
+    "winner": "USA",
+    "loser": "SSD",
+    "playedInGroup": false
+  },
+  {
+    "team1": "ESP",
+    "team2": "BRA",
+    "team1Score": 76,
+    "team2Score": 72,
+    "winner": "ESP",
+    "loser": "BRA",
+    "playedInGroup": false
+  },
+  {
+    "team1": "ESP",
+    "team2": "PRI",
+    "team1Score": 107,
+    "team2Score": 84,
+    "winner": "ESP",
+    "loser": "PRI",
+    "playedInGroup": false
+  }
+]
